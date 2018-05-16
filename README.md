@@ -1,8 +1,8 @@
 # Travel-Project
 First Group Project
 
-//cody's first edit
 ## Team Members
-Another Person
-Shelley 
+Cody 
+Another Person 
+Shelley  
 

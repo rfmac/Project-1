@@ -8,15 +8,15 @@ Clone the repository onto your local machine. Run index.html and open in your br
 The project funtions utilizing api calls to Wikipedia. Bootstrap is implemented for cross device functionality and the searched for information is stored in Firebase.
 
 Built With
-HTML
-CSS
+HTML,
+CSS,
 Javascript
 
 Authors
-Shelley Pasternak
-Jacob Walton
-Cody Plunkett
-Russell MacDougall
+Shelley Pasternak,
+Jacob Walton,
+Cody Plunkett,
+Russell MacDougall,
 Juan Aguilar
 
 Acknowledgments

@@ -5,7 +5,7 @@ The focus of our project is to create a fun interactive travel board. User's wil
 Getting Started
 Clone the repository onto your local machine. Run index.html and open in your browser. Use the search bar to populate information cards.
 
-The project funtions utilizing api calls to Wikipedia. Bootstrap is implemented for cross device functionality and the searched for information is stored in Firebase.
+The project funtions utilizing api calls to Wikipedia and Pixelbay. Bootstrap is implemented for cross device functionality and the searched for information is stored in Firebase.
 
 Built With
 HTML,

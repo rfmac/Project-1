@@ -10,7 +10,8 @@ The project funtions utilizing api calls to Wikipedia. Bootstrap is implemented 
 Built With
 HTML,
 CSS,
-Javascript
+Javascript,
+Bootstrap
 
 Authors
 Shelley Pasternak,
